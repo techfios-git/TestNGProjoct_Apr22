@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18155" started-at="2022-08-21T19:16:04Z" finished-at="2022-08-21T19:16:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18155" started-at="2022-08-21T19:16:04Z" finished-at="2022-08-21T19:16:22Z">
+      <class name="variousConcepts.LoginTest">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:variousConcepts.LoginTest@77caeb3e]" name="readConfig" is-config="true" duration-ms="22" started-at="2022-08-21T19:16:04Z" finished-at="2022-08-21T19:16:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.LoginTest@77caeb3e]" name="init" is-config="true" duration-ms="4394" started-at="2022-08-21T19:16:04Z" finished-at="2022-08-21T19:16:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:variousConcepts.LoginTest@77caeb3e]" name="loginTest" duration-ms="1866" started-at="2022-08-21T19:16:08Z" finished-at="2022-08-21T19:16:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.LoginTest@77caeb3e]" name="init" is-config="true" duration-ms="3648" started-at="2022-08-21T19:16:10Z" finished-at="2022-08-21T19:16:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addCustomer()[pri:2, instance:variousConcepts.LoginTest@77caeb3e]" name="addCustomer" duration-ms="8171" started-at="2022-08-21T19:16:14Z" finished-at="2022-08-21T19:16:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+      </class> <!-- variousConcepts.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
